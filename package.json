@@ -1,0 +1,14 @@
+{
+  "name": "app.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Blessed Yahaya",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
